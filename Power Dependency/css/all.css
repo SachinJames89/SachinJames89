@@ -1,0 +1,47 @@
+/* CSS Document */
+body{
+	padding:0;
+	margin:0;
+}
+
+#myCanvas{
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#bg{
+	position:absolute;
+	height:734px;
+	width:1000px;
+	top:0px;
+	left:0px;
+	background-image:url(../img/Power-Dependency-Ver01.png);
+}
+
+#buttons1{
+	width:162px;
+	position:absolute;
+	top:163px;
+	right:64px;	
+}
+
+#buttons2{
+	width:162px;
+	position:absolute;
+	top:340px;
+	right:64px;	
+}
+
+.button{
+	width:162px;
+	height:34px;
+	margin-top:11px;
+	border-radius:5px;
+	color:#fff;
+	font-family:'Myriad Pro';
+	text-align:center;
+	line-height:34px;
+	font-size:16px;	
+}
+
